@@ -11,7 +11,7 @@ clusters:
       branch: HEAD
 
 - name: gke
-  destinationServer: 34.66.183.205
+  destinationServer: https://34.66.183.205
   apps:
     prometheus:
       enabled: true
